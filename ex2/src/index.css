@@ -64,4 +64,5 @@ h1 {
 
 table {
   margin: 50px auto;
+  border-collapse: collapse;
 }
